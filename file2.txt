@@ -1,0 +1,9 @@
+
+this is file 2
+
+echo create new batch file 
+
+echo create linux code 
+echo create new batch file 
+
+echo create linux code 
